@@ -7,8 +7,7 @@
 ![Model](https://img.shields.io/badge/Model-LinearSVC-brightgreen)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
-(![image]([https://raw.githubusercontent.com/SamyanSharma/Cyberbullying-Detection-WebApp/refs/heads/main/WebApp%20Screenshot.png])
-)
+![WebApp Interface](./WebApp Screenshot.png)
 
 
 ## License
