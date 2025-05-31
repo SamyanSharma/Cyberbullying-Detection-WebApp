@@ -41,6 +41,14 @@ graph TD
     A --> F[Prediction Logging]
 ```
 
+## 🖥️ Web Interface
+
+<p align="center">
+  <img src="WebApp_Interface.png" alt="Web App Interface" width="600">
+  <br>
+  <em>Fig 1. User submits text and receives real-time predictions</em>
+</p>
+
 ![WebApp Interface](./WebApp_Interface.png)
 
 
