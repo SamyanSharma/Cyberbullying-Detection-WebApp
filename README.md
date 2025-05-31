@@ -66,8 +66,10 @@ python webapp.py
 ```
 Access the web interface at: `http://localhost:5000`
 
-## License
+## Contributing 
+We warmly welcome contributions to the Cyberbullying Detection project! Please checkout [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
 
 ## Acknowledgments
