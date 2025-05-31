@@ -7,7 +7,7 @@
 ![Model](https://img.shields.io/badge/Model-LinearSVC-brightgreen)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
-![image](![image]([https://raw.githubusercontent.com/SamyanSharma/Cyberbullying-Detection-WebApp/refs/heads/main/WebApp%20Screenshot.png])
+(![image]([https://raw.githubusercontent.com/SamyanSharma/Cyberbullying-Detection-WebApp/refs/heads/main/WebApp%20Screenshot.png])
 )
 
 
