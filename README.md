@@ -7,6 +7,11 @@
 ![Model](https://img.shields.io/badge/Model-LinearSVC-brightgreen)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
+A WebApp that uses previously trained ML model for detecting toxic content in text. A Flask web application that detects cyberbullying in text using a tuned LinearSVC model (trained on [Cyberbullying Classification Dataset](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)).
+
+## 📌 Overview
+This web application deploys a pre-trained LinearSVC model to identify potentially harmful content in real-time. While the model achieved competitive performance during testing, results should be interpreted as advisory (see Limitations).
+
 ![WebApp Interface](./WebApp_Interface.png)
 
 
