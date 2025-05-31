@@ -53,6 +53,7 @@ graph TD
    ```bash
    git clone https://github.com/SamyanSharma/Cyberbullying-Detection-WebApp.git
    cd Cyberbullying-Detection-WebApp
+   cd WebApp
    ```
 2. Install dependencies:
    ```bash
