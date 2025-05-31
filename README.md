@@ -29,9 +29,9 @@ This Flask-based web application uses a pre-trained LinearSVC machine learning m
 - Python 3.7+
 - Flask (pip install flask)
 - Scikit-learn (pip install scikit-learn)
-
 Other dependencies: pandas, numpy, joblib (for model loading)
 
+## 🛠️ Technical Stack
 ```mermaid
 graph TD
     A[Flask] --> B[LinearSVC Model]
