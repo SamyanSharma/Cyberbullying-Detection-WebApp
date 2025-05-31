@@ -55,7 +55,7 @@ graph TD
    cd Cyberbullying-Detection
    ```
 2. Install dependencies:
-   ```bash
+   ```py
    pip install -r requirements.txt
    ```
 
