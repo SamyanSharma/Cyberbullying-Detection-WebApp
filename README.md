@@ -48,6 +48,17 @@ graph TD
   <em>Fig 1. User submits text and receives real-time predictions</em>
 </p>
 
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SamyanSharma/Cyberbullying-Detection-WebApp.git
+   cd Cyberbullying-Detection
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
