@@ -59,6 +59,13 @@ graph TD
    pip install -r requirements.txt
    ```
 
+## 🖥️ Usage
+# Running the Application
+```bash
+python webapp.py
+```
+Access the web interface at: `http://localhost:5000`
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
