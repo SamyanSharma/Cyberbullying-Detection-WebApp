@@ -7,7 +7,7 @@
 ![Model](https://img.shields.io/badge/Model-LinearSVC-brightgreen)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
-![WebApp Interface](./WebApp Screenshot.png)
+![WebApp Interface](./WebApp_Interface.png)
 
 
 ## License
