@@ -25,7 +25,7 @@ This Flask-based web application uses a pre-trained LinearSVC machine learning m
 - **Audit logging** of all predictions
 - **Responsive design** for all devices
   
-## 🛠 Prerequisites
+## 🎯 Prerequisites
 - Python 3.7+
 - Flask (pip install flask)
 - Scikit-learn (pip install scikit-learn)
@@ -41,7 +41,7 @@ graph TD
     A --> F[Prediction Logging]
 ```
 
-## 🖥️ Web Interface
+## 🖼️ Web Interface
 <p align="center">
   <img src="WebApp_Interface.png" alt="Web App Interface" width="600">
   <br>
@@ -52,7 +52,7 @@ graph TD
 1. Clone the repository:
    ```bash
    git clone https://github.com/SamyanSharma/Cyberbullying-Detection-WebApp.git
-   cd Cyberbullying-Detection
+   cd Cyberbullying-Detection-WebApp
    ```
 2. Install dependencies:
    ```bash
@@ -66,12 +66,19 @@ python webapp.py
 ```
 Access the web interface at: `http://localhost:5000`
 
-## Contributing 
+## ⭐ How It Works
+1. Type or paste text into the input box
+
+2. Click "Predict" button
+
+3. View the classification result and confidence level
+
+## 🤝 Contributing 
 We warmly welcome contributions to the Cyberbullying Detection project! Please checkout [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
-## License
+## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
 
-## Acknowledgments
+## 🙏 Acknowledgments
 - Thanks to all contributors who have helped make this project possible
 - Special thanks to the open-source community for their invaluable tools and libraries
